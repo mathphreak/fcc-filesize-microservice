@@ -1,0 +1,24 @@
+{
+  "name": "@mathphreak/fcc-filesize-microservice",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "author": "Matt Horn <mathphreak@gmail.com> (http://mathphreak.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "dev-null": "~0.1.1",
+    "express": "~4.14.0",
+    "multer": "~1.1.0",
+    "stream-meter": "~1.0.3"
+  },
+  "devDependencies": {
+    "xo": "~0.16.0"
+  },
+  "xo": {
+    "space": true
+  }
+}
